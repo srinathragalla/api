@@ -1,18 +1,23 @@
 [
     {
+        "color":"purple",
         "name":"crafts",
         "id":"111"
+    
 
     },
     {
+        "color":"navy",
         "name":"rockets",
         "id":"222"
     },
     {
+        "color":"pink",
         "name":"spaceships",
         "id":"333"
     },
     {
+        
         "name":"rovers",
         "id":"444"
     },
