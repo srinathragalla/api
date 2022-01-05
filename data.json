@@ -17,11 +17,12 @@
         "id":"333"
     },
     {
-        
+        "color":"yellow",
         "name":"rovers",
         "id":"444"
     },
     {
+        "color":"cyan",
         "name":"choppers",
         "id":"555"
     }
